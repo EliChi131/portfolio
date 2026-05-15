@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Scrolly Telling Placeholder</title>
+  <desc id="desc">Placeholder cover image for the scrolly telling project page.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b132b" />
+      <stop offset="100%" stop-color="#3a506b" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)" />
+  <rect x="90" y="90" width="1020" height="520" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="4" />
+  <path d="M180 210c120 40 240 40 360 0s240-40 360 0 180 40 180 40" fill="none" stroke="#5bc0be" stroke-width="12" />
+  <text x="90" y="580" font-family="Georgia, serif" font-size="74" fill="#e0fbfc">Scrolly Telling Experience</text>
+  <text x="92" y="632" font-family="Arial, sans-serif" font-size="32" fill="#c9d6df">Replace this with your project screenshot</text>
+</svg>

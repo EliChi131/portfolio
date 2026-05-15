@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Local AI Agent Placeholder</title>
+  <desc id="desc">Placeholder cover image for the local AI agent project page.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f2937" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)" />
+  <rect x="70" y="70" width="1060" height="560" rx="24" fill="none" stroke="#34d399" stroke-width="4" />
+  <g fill="#34d399">
+    <circle cx="290" cy="300" r="12" />
+    <circle cx="380" cy="300" r="12" />
+    <circle cx="470" cy="300" r="12" />
+    <rect x="260" y="360" width="280" height="20" rx="10" />
+  </g>
+  <text x="90" y="560" font-family="Georgia, serif" font-size="74" fill="#ecfdf5">Local AI Agent (W.I.P.)</text>
+  <text x="92" y="612" font-family="Arial, sans-serif" font-size="32" fill="#d1fae5">Replace this with your project screenshot</text>
+</svg>

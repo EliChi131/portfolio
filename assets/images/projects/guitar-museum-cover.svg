@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Guitar Museum Placeholder</title>
+  <desc id="desc">Placeholder cover image for the guitar museum project page.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f766e" />
+      <stop offset="100%" stop-color="#14b8a6" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)" />
+  <circle cx="220" cy="130" r="170" fill="rgba(255,255,255,0.12)" />
+  <circle cx="980" cy="540" r="230" fill="rgba(255,255,255,0.09)" />
+  <text x="90" y="560" font-family="Georgia, serif" font-size="74" fill="#ecfeff">History of Guitar Museum</text>
+  <text x="92" y="610" font-family="Arial, sans-serif" font-size="32" fill="#ccfbf1">Replace this with your project screenshot</text>
+</svg>
